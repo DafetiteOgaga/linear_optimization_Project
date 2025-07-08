@@ -3,6 +3,8 @@
 
 This project addresses a real-world integer programming problem involving phased server procurement for a company-wide intranet rollout at CommuniCorp. The challenge involves meeting growing departmental demand while minimizing costs under budget and capacity constraints.
 
+### Click here for more [![More Details badge](https://img.shields.io/badge/Click-Here-brightgreen.svg)](./linear_optimization_Project_UPDATED.ipynb)
+
 ---
 
 ## 🚀 Project Objective
